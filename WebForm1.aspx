@@ -12,7 +12,7 @@
             <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" href="https://sampledataaccount.blob.core.windows.net/samplecontainerblob/animals/wolf.jpg" Text="Lion" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <asp:Button ID="Button2" runat="server" href="https://sampledataaccount.blob.core.windows.net/samplecontainerblob/animals/lion.jpg" Text="Wolf" />
-        </div><h1></h1>
+        </div>
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         </form>
